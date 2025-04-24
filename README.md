@@ -19,10 +19,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/seea-rani-3642bb215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seea rani" height="30" width="40" /></a>
 <a href="https://instagram.com/seea_garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seea_garg" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/seea rani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="seea rani" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/seea rani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="seea rani" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/seea rani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="seea rani" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/seea rani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="seea rani" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Seea_Rani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="seea rani" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Seea_Rani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="seea rani" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/Seea_Rani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="seea rani" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/Seea_Rani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="seea rani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
