@@ -34,5 +34,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seeagarg&show_icons=true&locale=en" alt="seeagarg" /></p>
 
-<p><img align="center" height="300" width="600" src="https://myportfolio-s5os-git-main-seeagarg0203gmailcoms-projects.vercel.app/images/projects/portfolio.png" alt="seeagarg" /></p>
+<p><img align="center" height="300" width="500" src="https://myportfolio-s5os-git-main-seeagarg0203gmailcoms-projects.vercel.app/images/projects/portfolio.png" alt="seeagarg" /></p>
 
